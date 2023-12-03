@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caiomelloni/mc536-GBD/main)
+
 # Modelo de Apresentação da Final
 
 # Estrutura de Arquivos e Pastas
